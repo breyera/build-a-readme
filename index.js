@@ -89,7 +89,6 @@ ${ usage }
 ## License
     
 ![badge](https://img.shields.io/badge/license-${ license }-brightgreen)
-<br />
 This application is covered by the ${ license } license.
     
 ## Contributing

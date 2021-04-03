@@ -1,12 +1,12 @@
 
-# test
+# README-generator
 
-![badge](https://img.shields.io/badge/license-Academic-brightgreen)
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
     
 ## Description
     
-test
+a command-line application that dynamically generates a professional README.md file from a user's input
     
 ## Table of Contents
     
@@ -20,30 +20,30 @@ test
     
 ## Installation
     
-test
+install inquirer
     
 ## Usage
     
-test
+quickly and easily create a README file by using a command-line application
     
 ## License
     
-![badge](https://img.shields.io/badge/license-Academic-brightgreen)
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
-This application is covered by the Academic license.
+This application is covered by the MIT license.
     
 ## Contributing
     
-test
+Alicia Breyer
     
 ## Tests
     
-test
+yes
     
 ## Questions
     
-test
+contact Alicia
 
-Find me on GitHub: [test](https://github.com/test)
+Find me on GitHub: [breyera](https://github.com/breyera)
 
-Email me with any questions: test
+Email me with any questions: alicia_breyer@yahoo.com
