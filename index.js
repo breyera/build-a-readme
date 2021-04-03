@@ -58,16 +58,17 @@ let readMeInfo = async () => {
     ])
     //user answers to fill a readme page
     const { projectName, description, installation, usage, license, contributing, tests, questions, username, email } = answers;
-    const readMePage = `<h1>${ projectName }</h1>
+    const readMePage = `
+# ${ projectName }
 
-    ![badge](https://img.shields.io/badge/license-${ license }-brightgreen)
-    <br />
+![badge](https://img.shields.io/badge/license-${ license }-brightgreen)
+<br />
     
-    ## Description
+## Description
     
-    🔍 ${ description }
+${ description }
     
-    ## Table of Contents
+## Table of Contents
     
     - [Description](#description)
     - [Installation](#installation)
@@ -77,35 +78,35 @@ let readMeInfo = async () => {
     - [Tests](#tests)
     - [Questions](#questions)
     
-    ## Installation
+## Installation
     
-    💾 ${ installation }
+${ installation }
     
-    ## Usage
+## Usage
     
-    💻 ${ usage }
+${ usage }
     
-    ## License
+## License
     
-    ![badge](https://img.shields.io/badge/license-${ license }-brightgreen)
-    <br />
-    This application is covered by the ${ license } license.
+![badge](https://img.shields.io/badge/license-${ license }-brightgreen)
+<br />
+This application is covered by the ${ license } license.
     
-    ## Contributing
+## Contributing
     
-    👪 ${ contributing }
+${ contributing }
     
-    ## Tests
+## Tests
     
-    ✏️ ${ tests }
+${ tests }
     
-    ## Questions
+## Questions
     
-    ${ questions }<br />
-    <br />
-    Find me on GitHub: [${ username }](https://github.com/${ username })<br />
-    <br />
-    Email me with any questions: ${ email }<br />`;
+${ questions }
+
+Find me on GitHub: [${ username }](https://github.com/${ username })
+
+Email me with any questions: ${ email }`;
     //write user inputs to a new readme file
     const fs = require('fs');
         fs.writeFile('./example-readme/README.md', readMePage, (error) => {

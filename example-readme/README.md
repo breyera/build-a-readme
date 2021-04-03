@@ -1,13 +1,14 @@
-<h1>read-me-generator</h1>
 
-    ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
-    <br />
+# README-generator
+
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+<br />
     
-    ## Description
+## Description
     
-    🔍 a command-line application that dynamically generates a professional README.md file from a user's input using inquirer
+🔍 a command-line application that dynamically generates a professional README.md file from a user's input
     
-    ## Table of Contents
+## Table of Contents
     
     - [Description](#description)
     - [Installation](#installation)
@@ -17,32 +18,32 @@
     - [Tests](#tests)
     - [Questions](#questions)
     
-    ## Installation
+## Installation
     
-    💾 open terminal and install required package inquirer. then enter node index.js. answer prompts in terminal.
+💾 run node index.js from command line
     
-    ## Usage
+## Usage
     
-    💻 this project will be used for created dynamic README files from a user's input so that they can quickly and easily generate a file.
+💻 to quickly and easily create a README file using command-line
     
-    ## License
+## License
     
-    ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
-    <br />
-    This application is covered by the MIT license.
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+<br />
+This application is covered by the MIT license.
     
-    ## Contributing
+## Contributing
     
-    👪 Alicia Breyer
+👪 Alicia Breyer
     
-    ## Tests
+## Tests
     
-    ✏️ yes
+✏️ yes
     
-    ## Questions
+## Questions
     
-    contact Alicia<br />
-    <br />
-    Find me on GitHub: [breyera](https://github.com/breyera)<br />
-    <br />
-    Email me with any questions: alicia_breyer@yahoo.com<br />
+send an email
+
+Find me on GitHub: [breyera](https://github.com/breyera)
+
+Email me with any questions: alicia_breyer@yahoo.com
