@@ -1,49 +1,49 @@
 
-# README-generator
+# test
 
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+![badge](https://img.shields.io/badge/license-Academic-brightgreen)
 <br />
     
 ## Description
     
-🔍 a command-line application that dynamically generates a professional README.md file from a user's input
+test
     
 ## Table of Contents
     
-    - [Description](#description)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [License](#license)
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [Questions](#questions)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
     
 ## Installation
     
-💾 run node index.js from command line
+test
     
 ## Usage
     
-💻 to quickly and easily create a README file using command-line
+test
     
 ## License
     
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+![badge](https://img.shields.io/badge/license-Academic-brightgreen)
 <br />
-This application is covered by the MIT license.
+This application is covered by the Academic license.
     
 ## Contributing
     
-👪 Alicia Breyer
+test
     
 ## Tests
     
-✏️ yes
+test
     
 ## Questions
     
-send an email
+test
 
-Find me on GitHub: [breyera](https://github.com/breyera)
+Find me on GitHub: [test](https://github.com/test)
 
-Email me with any questions: alicia_breyer@yahoo.com
+Email me with any questions: test
