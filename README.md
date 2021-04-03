@@ -4,7 +4,7 @@
 
 ## Description
 
-A node.js application that uses user input from inquirer to populate a README.md file for user repository. The README.md file is created in the example-readme folder and can be found here
+A node.js application that uses user input from inquirer to populate a README.md file for user repository. The README.md file is created in the example-readme folder and can be found ![here](./example-readme/README.md)
 
 ## How To
 
@@ -15,7 +15,7 @@ A node.js application that uses user input from inquirer to populate a README.md
 
 ### Usage Video
 
-![gif of using read me generator](assets/build-a-readme.mp4)
+![gif of using read me generator](./assets/build-a-readme.gif)
 
 ### License
 
